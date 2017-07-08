@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { DomSanitizer } from '@angular/platform-browser';
 
 @Component({
 	selector: 'video-list',
@@ -10,20 +11,27 @@ export class VideoListComponent implements OnInit {
 	videoList = [
 		{
 			name: "Item1",
-			slug: "item-1"
+			slug: "item-1",
+			embed: '6wD4V0rvlDI'
 		},
 		{
 			name: "Item2",
-			slug: "item-2"
+			slug: "item-2",
+			embed: '6wD4V0rvlDI'
 		},
 		{
 			name: "Item3",
-			slug: "item-3"
+			slug: "item-3",
+			embed: null
 		}
 	]
-	constructor() { }
+	constructor(private sanitizer: DomSanitizer) { }
 
 	ngOnInit() {
+	}
+
+	getEmbedURL(embed){
+		return this.sanitizer.bypassSecurityTrustResourceUrl('https://www.youtube.com/embed/'+embed)
 	}
 
 }
