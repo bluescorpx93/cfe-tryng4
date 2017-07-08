@@ -1,4 +1,4 @@
-<h1> {{ title }}</h1>
+<h1> {{ title }} - {{todayDate | date: "MM/dd/yy"}}</h1>
 <!-- <p *ngFor = "let item of videoList">
 	<a href='videos/{{ item.slug }} ' *ngIf= ' item.slug == "item-1" '> {{ item.name }} </a>
 	<a href='videos/{{ item.slug }} ' *ngIf= ' item.slug != "item-1" ' style='color:green;'> {{item.name}}</a>
@@ -9,6 +9,8 @@
  	<a href='videos/{{item.slug}}'> {{ item.name }}</a>
  
  	<div style='margin: 0 auto; position: relative'>
- 		<iframe width="560" height="315" *ngIf='item.embed' [src]="getEmbedURL(item.embed)" frameborder="0" allowfullscreen></iframe>
+ 		<iframe width="560" height="315" *ngIf='item.embed' [src]="getEmbedURL(item.embed) | safe" frameborder="0" allowfullscreen></iframe>
+ 		<!-- The embed URL gets created from the function which returns a string
+ 		the SAFE pipe makes it Sanitized -->
  	</div>
  </div>
