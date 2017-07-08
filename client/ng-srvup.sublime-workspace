@@ -1,0 +1,2005 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fu",
+				"function"
+			],
+			[
+				"un",
+				"unlockScroll"
+			],
+			[
+				"unlo",
+				"unlockScroll"
+			],
+			[
+				"unl",
+				"unlockCondition"
+			],
+			[
+				"doc",
+				"docElement5"
+			],
+			[
+				"lo",
+				"lockScroll"
+			],
+			[
+				"fade",
+				"fadeIn"
+			],
+			[
+				"slide",
+				"slideUp"
+			],
+			[
+				"nex",
+				"nextAction"
+			],
+			[
+				"prev",
+				"prevAction"
+			],
+			[
+				"how",
+				"how-image3"
+			],
+			[
+				"im",
+				"img_index"
+			],
+			[
+				"key",
+				"keyCode"
+			],
+			[
+				"next",
+				"next_img"
+			],
+			[
+				"curren",
+				"current_img"
+			],
+			[
+				"sli",
+				"slideInUp"
+			],
+			[
+				"how-im",
+				"how-image1"
+			],
+			[
+				"sc",
+				"scrollY"
+			],
+			[
+				"hei",
+				"heightEl1nEl2Top"
+			],
+			[
+				"docE",
+				"docElement2"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"margint",
+				"margin-left"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"page",
+				"page_id"
+			],
+			[
+				"html",
+				"html_form"
+			],
+			[
+				"render",
+				"render_to_string"
+			],
+			[
+				"blog",
+				"blog_id"
+			],
+			[
+				"m",
+				"max_length"
+			],
+			[
+				"add",
+				"addressBook"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"border-bo",
+				"border-bottom"
+			],
+			[
+				"cat",
+				"cat-search.service\tscript"
+			],
+			[
+				"se",
+				"searchResultsByColor\tmethod"
+			],
+			[
+				"c",
+				"catSearchService\tproperty"
+			],
+			[
+				"ser",
+				"searchTerms\tproperty"
+			],
+			[
+				"Cat",
+				"CatSearchService\talias"
+			],
+			[
+				"const",
+				"constructor\tkeyword"
+			],
+			[
+				"style",
+				"styleUrls\tproperty"
+			],
+			[
+				"dele",
+				"deleteCatByID\tconst"
+			],
+			[
+				"click",
+				"clickable"
+			],
+			[
+				"medium-c",
+				"medium-centered \tFoundation 3 Class"
+			],
+			[
+				"getC",
+				"getCatByIDURL\tconst"
+			],
+			[
+				"margn",
+				"margin-top"
+			],
+			[
+				"ri",
+				"align-right \tFoundation 3 Class"
+			],
+			[
+				"template",
+				"templateUrl\tproperty"
+			],
+			[
+				"border-b",
+				"border-bottom"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"App",
+				"AppRoutes\talias"
+			],
+			[
+				"text",
+				"text-center \tFoundation 3 Class"
+			],
+			[
+				"colu",
+				"column \tFoundation 3 Class"
+			],
+			[
+				"compoennt",
+				"cats.component\tscript"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"for",
+				"forRoot\tmethod"
+			],
+			[
+				"hero",
+				"heroService\tproperty"
+			],
+			[
+				"Data",
+				"DataService\talias"
+			],
+			[
+				"med",
+				"medium-6 \tFoundation 3 Class"
+			],
+			[
+				"data",
+				"data_static〔variable〕"
+			],
+			[
+				"me",
+				"medium-6 \tFoundation 3 Class"
+			],
+			[
+				"tod",
+				"todo_route"
+			],
+			[
+				"t",
+				"todo_route"
+			],
+			[
+				"qu",
+				"query_string"
+			],
+			[
+				"url",
+				"urlEncodedParser"
+			],
+			[
+				"bo",
+				"bodyParser"
+			],
+			[
+				"contact",
+				"contact_route〔variable〕"
+			],
+			[
+				"prof",
+				"profile_route〔variable〕"
+			],
+			[
+				"pro",
+				"profile/:id"
+			],
+			[
+				"home",
+				"home_route〔variable〕"
+			],
+			[
+				"create",
+				"createReadStream"
+			],
+			[
+				"fiel",
+				"fileStream"
+			],
+			[
+				"my",
+				"myWriteStream"
+			],
+			[
+				"writ",
+				"writeMeAsync.txt"
+			],
+			[
+				"read",
+				"readMeFile〔variable〕"
+			],
+			[
+				"new",
+				"new_book〔variable〕"
+			],
+			[
+				"de",
+				"demo_book2"
+			],
+			[
+				"Mar",
+				"MarioChar〔variable〕"
+			],
+			[
+				"Mario",
+				"MarioChar"
+			],
+			[
+				"Auth",
+				"AuthGuard\talias"
+			],
+			[
+				"user",
+				"user_logged_in\tlet"
+			],
+			[
+				"rout",
+				"routerLinkActiveOptions"
+			],
+			[
+				"router",
+				"routerLinkActive"
+			],
+			[
+				"undef",
+				"undefinedFormFields\tlet"
+			],
+			[
+				"warn",
+				"warnUserInvalidEmail\tlocal function"
+			],
+			[
+				"vali",
+				"validateEmail\tmethod"
+			],
+			[
+				"wa",
+				"warnUser\tlocal function"
+			],
+			[
+				"validate",
+				"validateRegister\tmethod"
+			],
+			[
+				"type",
+				"typeof\tkeyword"
+			],
+			[
+				"gen",
+				"gender_female"
+			],
+			[
+				"routerLi",
+				"routerLinkActiveOptions"
+			],
+			[
+				"routerLink",
+				"routerLinkActive"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"pa",
+				"password"
+			],
+			[
+				"User",
+				"UserSchema〔variable〕"
+			],
+			[
+				"re",
+				"required"
+			],
+			[
+				"va",
+				"validate_route"
+			],
+			[
+				"prio",
+				"profile_route"
+			],
+			[
+				"aut",
+				"authenticate_route〔variable〕"
+			],
+			[
+				"au",
+				"authenticate_route"
+			],
+			[
+				"em",
+				"emailError"
+			],
+			[
+				"pu",
+				"push"
+			],
+			[
+				"fir",
+				"firstNameError"
+			],
+			[
+				"name",
+				"nameSpace"
+			],
+			[
+				"express",
+				"expressValidator〔variable〕"
+			],
+			[
+				"per",
+				"personJames"
+			],
+			[
+				"pers",
+				"personJeff"
+			],
+			[
+				"bod",
+				"bodyParser〔variable〕"
+			],
+			[
+				"app",
+				"appLogger〔function〕"
+			],
+			[
+				"H",
+				"HTTP"
+			],
+			[
+				"cons",
+				"console.\tconsole.log()"
+			],
+			[
+				"About",
+				"AboutNewComponent\talias"
+			],
+			[
+				"in",
+				"injectable\talias"
+			],
+			[
+				"s",
+				"splice\tmethod"
+			],
+			[
+				"give",
+				"givenId\tparameter"
+			],
+			[
+				"gi",
+				"givenEmail\tparameter"
+			],
+			[
+				"giv",
+				"givenName\tparameter"
+			],
+			[
+				"given",
+				"givenName\tparameter"
+			],
+			[
+				"show",
+				"showToDo_with_Interface\tfunction"
+			],
+			[
+				"con",
+				"console\tvar"
+			],
+			[
+				"get",
+				"getName\tfunction"
+			],
+			[
+				"func",
+				"function\tkeyword"
+			],
+			[
+				"function",
+				"FunctionConstructor\tinterface"
+			],
+			[
+				"Ho",
+				"Hosting"
+			],
+			[
+				"J",
+				"Jashim"
+			],
+			[
+				"tabs",
+				"tabs-panel \tFoundation 3 Class"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"border-bot",
+				"border-bottom-left-radius"
+			],
+			[
+				"border-top-",
+				"border-top-right-radius"
+			],
+			[
+				"backgro",
+				"background"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/index.html",
+			"settings":
+			{
+				"buffer_size": 286,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app/app.component.ts",
+			"settings":
+			{
+				"buffer_size": 210,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app/app.component.html",
+			"settings":
+			{
+				"buffer_size": 48,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 125.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"enable li",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"livere",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"ena",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"",
+				"Package Control: Enable Package"
+			],
+			[
+				"auto",
+				"SublimeCodeIntel: Enable Live Autocompletion for Current Language"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"add re",
+				"Package Control: Add Repository"
+			],
+			[
+				"pac",
+				"Install Package Control"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"colo",
+				"Colorsublime: Browse Themes"
+			],
+			[
+				"unin",
+				"SublimeCodeIntel: Disable Plugin"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"gin",
+				"Git: Init"
+			],
+			[
+				"git: add",
+				"Git: Update Project Ignored Files"
+			],
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 601.0
+	},
+	"console":
+	{
+		"height": 328.0,
+		"history":
+		[
+			"sudo apt-get autoclean",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/toufiq/CFE/try-angular4",
+		"/home/toufiq/CFE/try-angular4/client",
+		"/home/toufiq/CFE/try-angular4/client/src",
+		"/home/toufiq/CFE/try-angular4/client/src/app",
+		"/home/toufiq/CFE/try-angular4/client/src/app/video-detail",
+		"/home/toufiq/CFE/try-angular4/client/src/app/video-list"
+	],
+	"file_history":
+	[
+		"/home/toufiq/CFE/try-angular4/client/src/app/video-list/video-list.component.ts",
+		"/home/toufiq/CFE/try-angular4/client/src/app/app.component.spec.ts",
+		"/home/toufiq/CFE/try-angular4/client/src/app/video-detail/video-detail.component.ts",
+		"/mnt/C8722EC4722EB75A/Downloads/ondex/ondex/index.html",
+		"/home/toufiq/CFE/gitbasics/file1.txt",
+		"/home/toufiq/CFE/gitbasics/file2.txt",
+		"/home/toufiq/CFE/gitbasics/file3.txt",
+		"/home/toufiq/CFE/gitbasics/.gitignore",
+		"/home/toufiq/TheNetNinja/rest_api_tutorial/catfinder/server.js",
+		"/home/toufiq/TheNetNinja/rest_api_tutorial/catfinder/src/app/app.component.ts",
+		"/home/toufiq/TheNetNinja/rest_api_tutorial/catfinder/src/app/catfinder.service.ts",
+		"/home/toufiq/Rails/blog/app/views/comments/_comment.html.erb",
+		"/home/toufiq/Rails/blog/app/views/welcome/index.html.erb",
+		"/home/toufiq/Rails/blog/app/views/layouts/application.html.erb",
+		"/home/toufiq/Rails/blog/app/views/articles/index.html.erb",
+		"/home/toufiq/Rails/blog/app/controllers/articles_controller.rb",
+		"/home/toufiq/Rails/blog/app/views/articles/show.html.erb",
+		"/home/toufiq/Rails/blog/app/views/comments/_form.html.erb",
+		"/home/toufiq/Rails/blog/app/views/articles/_form.html.erb",
+		"/home/toufiq/Django/twdp/rango/urls.py",
+		"/home/toufiq/Django/twdp/twdp/urls.py",
+		"/home/toufiq/Django/twdp/twdp/views.py",
+		"/home/toufiq/Django/twdp/templates/root-home.html",
+		"/home/toufiq/Django/twdp/templates/rango/index.html",
+		"/home/toufiq/Django/twdp/templates/rango/category.html",
+		"/home/toufiq/Django/twdp/templates/rango/page.html",
+		"/home/toufiq/Django/twdp/templates/rango/add_page.html",
+		"/home/toufiq/Django/twdp/rango/views.py",
+		"/home/toufiq/Django/twdp/templates/rango/add_category.html",
+		"/home/toufiq/Django/twdp/templates/base.html",
+		"/home/toufiq/Rails/RailsTutorial/toy_app/app/controllers/application_controller.rb",
+		"/home/toufiq/Rails/RailsTutorial/sample_app/app/controllers/application_controller.rb",
+		"/home/toufiq/Rails/RailsTutorial/sample_app/app/views/root-home/root-home.html",
+		"/home/toufiq/angular_io_docs/alexcatlive/src/app/about.component.html",
+		"/home/toufiq/DesignCourse/ng4-playground/src/app/app.component.ts",
+		"/home/toufiq/DesignCourse/ng4-playground/src/app/data.service.ts",
+		"/home/toufiq/DesignCourse/ng4-playground/src/app/app.module.ts",
+		"/home/toufiq/DesignCourse/ng4-playground/src/app/app.component.html",
+		"/home/toufiq/ChrisHawkes/django_1.10_tutorial/books/templates/blogs.html",
+		"/home/toufiq/ChrisHawkes/django_1.10_tutorial/books/static/myjs/blog.js",
+		"/home/toufiq/ChrisHawkes/django_1.10_tutorial/books/books/urls.py",
+		"/home/toufiq/ChrisHawkes/django_1.10_tutorial/books/blog/forms.py",
+		"/home/toufiq/ChrisHawkes/django_1.10_tutorial/books/books/views.py",
+		"/home/toufiq/ChrisHawkes/django_1.10_tutorial/books/templates/about.html",
+		"/home/toufiq/ChrisHawkes/django_1.10_tutorial/books/blog/models.py",
+		"/home/toufiq/ChrisHawkes/django_1.10_tutorial/books/templates/index.html",
+		"/home/toufiq/ChrisHawkes/django_1.10_tutorial/books/templates/layout.html",
+		"/home/toufiq/ChrisHawkes/django_1.10_tutorial/books/books/settings.py",
+		"/home/toufiq/ChrisHawkes/django_1.10_tutorial/books/blog/admin.py",
+		"/home/toufiq/ChrisHawkes/django_1.10_tutorial/books/blog/urls.py",
+		"/home/toufiq/ChrisHawkes/django_1.10_tutorial/books/templates/blog.html",
+		"/home/toufiq/ChrisHawkes/django_1.10_tutorial/books/blog/views.py",
+		"/home/toufiq/ChrisHawkes/django_1.10_tutorial/books/templates/partial_blog_create.html",
+		"/home/toufiq/Udacity/ud549/specrunner_new.html",
+		"/home/toufiq/Udacity/ud549/spec/AddressBookSpec.js",
+		"/home/toufiq/Udacity/ud549/src/AddressBook.js",
+		"/home/toufiq/Rails/RBT/bookgosp/app/views/users/new.html.erb",
+		"/home/toufiq/Rails/RBT/bookgosp/app/views/users/user_flash_messages/_user_created.html.erb",
+		"/home/toufiq/Rails/RBT/bookgosp/config/environments/production.rb",
+		"/home/toufiq/Rails/RBT/bookgosp/config/environment.rb",
+		"/home/toufiq/Rails/RBT/bookgosp/config/initializers/app_env_vars.rb",
+		"/home/toufiq/angular_io_docs/angular-cat-app/src/app/cat-search.component.css",
+		"/home/toufiq/angular_io_docs/angular-cat-app/src/app/dashboard.component.html",
+		"/home/toufiq/angular_io_docs/angular-cat-app/src/app/cat-search.service.ts",
+		"/home/toufiq/angular_io_docs/angular-cat-app/src/app/cat-search.component.ts",
+		"/home/toufiq/angular_io_docs/angular-cat-app/src/app/cat-search.component.html",
+		"/home/toufiq/angular_io_docs/angular-cat-app/src/app/about.component.html",
+		"/home/toufiq/angular_io_docs/angular-cat-app/src/app/about.component.css",
+		"/home/toufiq/angular_io_docs/angular-cat-app/src/app/app.module.ts",
+		"/home/toufiq/angular_io_docs/angular-cat-app/src/app/cats.component.ts",
+		"/home/toufiq/angular_io_docs/angular-cat-app/src/app/cats.component.html",
+		"/home/toufiq/angular_io_docs/angular-cat-app/src/app/cat-detail.component.ts",
+		"/home/toufiq/angular_io_docs/angular-cat-app/src/app/cat-detail.component.html",
+		"/home/toufiq/angular_io_docs/angular-cat-app/src/app/cat-crud-service.ts",
+		"/home/toufiq/angular_io_docs/angular-cat-app/src/app/cat.component.ts",
+		"/home/toufiq/angular_io_docs/angular-cat-app/src/app/cats.component.css",
+		"/home/toufiq/angular_io_docs/angular-cat-app/in-memory-service.ts",
+		"/home/toufiq/angular_io_docs/angular-cat-app/src/app/home.component.html",
+		"/home/toufiq/angular_io_docs/angular-cat-app/src/app/about.component.ts",
+		"/home/toufiq/angular_io_docs/angular-cat-app/src/app/app.routes.ts",
+		"/home/toufiq/angular_io_docs/angular-cat-app/src/index.html",
+		"/home/toufiq/angular_io_docs/angular-cat-app/src/app/app.component.ts",
+		"/home/toufiq/angular_io_docs/angular-cat-app/src/app/cat.class.ts",
+		"/home/toufiq/angular_io_docs/angular-cat-app/src/app/cat-detail.component.css",
+		"/home/toufiq/angular_io_docs/angular-cat-app/src/app/cat-data.ts",
+		"/home/toufiq/angular_io_docs/angular-cat-app/src/app/app-navbar.component.ts",
+		"/home/toufiq/angular_io_docs/angular-cat-app/src/app/app-navbar.component.css",
+		"/home/toufiq/angular_io_docs/angular-cat-app/src/app/home.component.ts",
+		"/home/toufiq/angular_io_docs/angular-cat-app/src/app/home.component.css",
+		"/home/toufiq/angular_io_docs/angular-cat-app/src/app/dashboard.component.ts",
+		"/home/toufiq/angular_io_docs/angular-cat-app/src/app/app.component.html",
+		"/home/toufiq/angular_io_docs/angular-cat-app/src/app/app-navbar.component.html",
+		"/home/toufiq/angular_io_docs/angular-cat-app/src/app/dashboard.component.css",
+		"/home/toufiq/angular_io_docs/angular-cat-app/dashboard.component.ts",
+		"/home/toufiq/angular_io_docs/angular-cat-app/src/styles.css",
+		"/home/toufiq/angular_io_docs/angular-tour-of-heroes/package.json",
+		"/home/toufiq/angular_io_docs/angular-tour-of-heroes/src/app/hero-detail.component.ts",
+		"/home/toufiq/angular_io_docs/angular-tour-of-heroes/src/app/hero-detail.component.css",
+		"/home/toufiq/angular_io_docs/angular-tour-of-heroes/src/app/heroes.component.ts",
+		"/home/toufiq/angular_io_docs/angular-tour-of-heroes/src/app/heroes.component.css",
+		"/home/toufiq/angular_io_docs/angular-tour-of-heroes/src/app/heroes.component.html",
+		"/home/toufiq/angular_io_docs/angular-tour-of-heroes/src/app/hero-detail.component.html",
+		"/home/toufiq/angular_io_docs/angular-tour-of-heroes/src/app/hero-search.component.css",
+		"/home/toufiq/angular_io_docs/angular-tour-of-heroes/src/app/components/dashboard.component.html",
+		"/home/toufiq/angular_io_docs/angular-tour-of-heroes/src/app/hero-search.component.ts",
+		"/home/toufiq/angular_io_docs/angular-tour-of-heroes/src/app/app.module.ts",
+		"/home/toufiq/angular_io_docs/angular-tour-of-heroes/src/app/in-memory-data.service.ts",
+		"/home/toufiq/angular_io_docs/angular-tour-of-heroes/src/app/hero.service.ts",
+		"/home/toufiq/angular_io_docs/angular-tour-of-heroes/src/app/hero-search.service.ts",
+		"/home/toufiq/angular_io_docs/angular-tour-of-heroes/src/app/hero-search.component.html",
+		"/home/toufiq/TheNetNinja/rest_api_tutorial/readme.md",
+		"/home/toufiq/angular_io_docs/angular-tour-of-heroes/src/app/hero-search.omponent.ts",
+		"/home/toufiq/.cache/.fr-ClDhfF/itg.flat.dark.sublime-theme",
+		"/home/toufiq/angular_io_docs/angular-tour-of-heroes/src/index.html",
+		"/home/toufiq/angular_io_docs/angular-tour-of-heroes/src/app/components/dashboard.component.css",
+		"/home/toufiq/angular_io_docs/angular-tour-of-heroes/src/app/hero.ts",
+		"/home/toufiq/angular_io_docs/angular-tour-of-heroes/src/app/app.routes.ts",
+		"/home/toufiq/angular_io_docs/angular-tour-of-heroes/src/app/app.component.ts",
+		"/home/toufiq/angular_io_docs/angular-tour-of-heroes/src/app/app.component.html",
+		"/home/toufiq/angular_io_docs/angular-tour-of-heroes/src/styles.css",
+		"/home/toufiq/angular_io_docs/angular-tour-of-heroes/src/app/components/dashboard.component.ts",
+		"/home/toufiq/angular_io_docs/angular-tour-of-heroes/src/app/mock-heroes.ts",
+		"/home/toufiq/angular_io_docs/angular-tour-of-heroes/src/app/app.component.css",
+		"/home/toufiq/.cache/.fr-16CrbF/itg.flat.dark.sublime-theme",
+		"/home/toufiq/TheNetNinja/thenetninjas_angular2tutorial/ninja-directory/src/app/app.component.html",
+		"/home/toufiq/.cache/.fr-sQ83aR/OneDarkMaterial.sublime-theme",
+		"/home/toufiq/.cache/.fr-32bRZ0/OneDarkMaterial.sublime-theme",
+		"/home/toufiq/.cache/.fr-HO1Zff/itg.flat.dark.sublime-theme"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 120.0,
+		"where_history":
+		[
+			"/home/toufiq/Rails/RBT/bookgosp/app/views",
+			"/home/toufiq/Rails/RBT/bookgosp/app/",
+			"/home/toufiq/Rails/RBT/bookgosp/app/views/",
+			"/home/toufiq/Rails/RBT/bookgosp/",
+			"/home/toufiq/Django/blog/",
+			"/home/toufiq/Django/blog/src",
+			"/home/toufiq/Django/blog"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<span style='margin-left: 10px; margin-right: 10px'>",
+			"selectedCat",
+			"\"Reddish Brown\"",
+			"row_pa",
+			"sidebar",
+			"font.it",
+			"Login",
+			"'undefined'",
+			"$29.99",
+			"$19.99",
+			"top",
+			"top-bar",
+			"window.setTimeout(function() {\n\t\t$(\"#flash_messages_div\").fadeTo(500, 0).slideUp(500, function(){\n\t\t\t$(this).remove(); \n\t\t});\n\t}, 1000);",
+			"profile_button",
+			"</div>",
+			"<div>",
+			"<%= image_tag('button_icons/search_24.png') %>",
+			"</div>",
+			"<script>",
+			"</div>",
+			"col-md-11",
+			"col-md-10",
+			"col-md-8",
+			"col-md-7",
+			"col-md-6",
+			"col-md-5",
+			"col-md-offset-4",
+			"col-md-4",
+			"col-md-offset-2",
+			"col-md-2",
+			"col-md-1",
+			"col-md-12",
+			"col-md-offset-3",
+			"col-md-3",
+			"col-md-9",
+			"-4",
+			"-2",
+			"-1",
+			"-3",
+			"-9",
+			"-10",
+			"-8",
+			"-7",
+			"-9",
+			"<i class='fa fa-search'></i> Search",
+			"btn",
+			"container3",
+			"solution_field_heading",
+			"$('html, body').animate({\n\t\t\tscrollTop: $('#content_main_div').offset().top}, 500);",
+			"$(\"#content_main_div\").fadeIn(300);",
+			"$(\"#content_main_div\").focus();",
+			"$(\"#content_main_div\").hide();",
+			"title='Click to find out",
+			"anchor_healthcare_f",
+			"solution_field",
+			"contact_div",
+			"solution_fi",
+			"btn",
+			"solution_field_icon",
+			"active_solution_cat_explanation",
+			"motiv",
+			"bpo_features_text_div",
+			"bpo_text_feat_div",
+			"solution_field_icon",
+			"active_solution_cat_heading",
+			"h4 class='solution_field'",
+			"bpo_features_text_div",
+			"'red'",
+			"<span id='li",
+			"span style='color:white;'",
+			"dark_nav_anchor",
+			"solution_field_",
+			"</h5",
+			"<h5",
+			"solution_fi",
+			"$(\"#content_main_div\").fadeOut(300);",
+			"$(\"#content_main_div\").hide();",
+			".hide();",
+			"slideDown(300);",
+			"slideDown(900);",
+			"$(\"#content_main_div\").focus();",
+			".slideDown(600)",
+			".slideDown(300)",
+			"fadeIn(300)",
+			".slideDown",
+			"content_main_div",
+			"rgba",
+			"</h4",
+			"<h4",
+			"solution_field",
+			"accounts",
+			"bpo_feat_text_gb",
+			"cur",
+			"href='#autonicbpos'",
+			"soluti",
+			"<div id=",
+			"qoute",
+			"300",
+			"<!DOCTYPE html>\n<html>\n<head>\n\t<script type='text/javascript' src='assets/js/bootstrap.min.js'></script>\n\t<script type='text/javascript' src='assets/js/jquery.min.js'></script>\n\t<link rel='stylesheet' href='assets/css/bootstrap.min.css'>\n\t<link rel='stylesheet' href='assets/css/font-awesome.min.css'>\n\t<link rel=\"stylesheet\" href='assets/css/style.css'>\n\t<link rel='icon' href='assets/images/logo-small.png'>\n\t<title>Autonic Solutions</title>\n</head>\n\n<body>\n\t<div id='container1'>\n\t\t<img src='assets/images/landing_pg_background-pexels-photo-316879_16.9sm.jpeg' class='img-responsive landing_pg_bg_img'>\n\t\t<div class='overlay1'>\n\t\t\t<div class='col-md-8 col-md-offset-2 pad-zero' >\n\t\t\t\t<div class='landingpg_heading_background'>\n\t\t\t\t\t<h1 id='brand_name'> Aut<span><img src='assets/images/logo-small.png' class='img_inside_heading img-responsive'></span>nic Solutions</h1>\n\t\t\t\t</div>\n\t\t\t\t<h3 id='brand_slogan'> We Deliver Excellence</h3>\n\t\t\t</div>\n\t\t</div>\n\n\t</div>\n\n\t<div id='container2'>\n\t\t<img src='assets/images/StockSnap_W489JFV8EK_16.9_sm.jpg' class='img-responsive landing_pg_bg_img2'>\n\t\t<div class='overlay2'>\n\t\t\t<div class='col-md-10 col-md-offset-1 pad-zero'>\n\t\t\t\t<div class='landingpg_heading_background2'>\n\t\t\t\t\t<div class='col-md-10 col-md-offset-1'>\n\t\t\t\t\t\t<h1 id='motiv_qoute1' class=''> <strong>Save Time</strong> &<br> Focus on your <strong>Core Business</strong></h1>\n\t\t\t\t\t\t<h3 id='bpo_in_out_line'> Autonic BPO (Business Process Outsourcing) Solutions will take care of the rest</h3>\n\t\t\t\t\t</div>\n\n\t\t\t\t\t<div class='col-md-10 col-md-offset-1 pad-zero'>\n\t\t\t\t\t\t<div class='btn col-md-4 text-center' style='border:0; >\n\t\t\t\t\t\t\t<div class='bpo_feat1' id='grow_business_div'>\n\t\t\t\t\t\t\t\t<h4 class='bpo_feat_heading'> Grow <br>Your <br> Business</h4>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class='btn col-md-4 text-center' style='border:0;>\n\t\t\t\t\t\t\t<div class=' bpo_feat2' id='access_specialist_div'>\n\t\t\t\t\t\t\t\t<h4 class='bpo_feat_heading'> Access <br> Specialist <br> Expertise</h4>\n\t\t\t\t\t\t\t</div>\t\t\t\t\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class='btn col-md-4 text-center' style='border:0;'>\n\t\t\t\t\t\t\t<div class=' bpo_feat3' id='drive_efficiency_div' >\n\t\t\t\t\t\t\t\t<h4 class='bpo_feat_heading'> Drive <br> Maximum <br>Efficiency</h4>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class='col-md-12'>\n\t\t\t\t\t\t<h5 class='solution_field' id='bpo_feat_text_gb'> Grow Your Business</h5>\n\t\t\t\t\t\t<h5 class='solution_field' id='bpo_feat_text_ase'> Grow Your Business</h5>\n\t\t\t\t\t\t<h5 class='solution_field' id='bpo_feat_text_dme'> You are important and so is your time. Don't waste it on building an ineffiecient and expensive in-house business solution. Let the people at Autonic manage your administrative and secretarial work.</h5>\n\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n\n\t<div id='container3'>\n\t\t<img src='assets/images/StockSnap_FS24L3X9BH_16.9_sm.jpg' class='img-responsive landing_pg_bg_img3'>\n\t\t<div class='overlay3'>\n\t\t\t<div class='col-md-10 col-md-offset-1 pad-zero'>\n\t\t\t\t<h1 id='motiv_qoute2'>Secure & Reliable BPO Solutions for All</h1>\n\t\t\t\t<div class='col-md-12 pad-zero'>\n\t\t\t\t\t<div class='col-md-4 pad-zero'>\n\t\t\t\t\t\t<h1 class='solution_category pad-zero marg-zero'> Industry</h1>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class='col-md-4'>\n\t\t\t\t\t\t<h4 class='solution_field'> Accounts & Finance</h4>\n\t\t\t\t\t\t<h4 class='solution_field'> Payroll</h4>\n\t\t\t\t\t\t<h4 class='solution_field'> Tax Returns</h4>\n\t\t\t\t\t\t<h4 class='solution_field'> Insurance</h4>\n\t\t\t\t\t\t<h4 class='solution_field'> Healthcare</h4>\n\t\t\t\t\t\t<h4 class='solution_field'> Property Preservation & Management</h4>\n\t\t\t\t\t\t<h4 class='solution_field'> Retail</h4>\n\t\t\t\t\t\t<h4 class='solution_field'> Logistics</h4>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class='col-md-4'>\n\t\t\t\t\t\t<h6 class='solution_field' id='industry_options_description'> Hello</h6>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class='col-md-12 pad-zero' style='margin-top: 3%;'>\n\t\t\t\t\t<div class='col-md-4 pad-zero'>\n\t\t\t\t\t\t<h1 style='color:white;'> IT</h1>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class='col-md-4'>\n\t\t\t\t\t\t<h4 class='solution_field'> Application Development</h4>\n\t\t\t\t\t\t<h4 class='solution_field'> Business Automation</h4>\n\t\t\t\t\t\t<h4 class='solution_field'> Big Data Analysis</h4>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class='col-md-4'>\n\t\t\t\t\t\t<h6 class='solution_field' id='it_options_description'> Hello</h6>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n\n\t<div id='container4'>\n\t\t<img src='assets/images/pexels-photo-40120_lg_t_sm.jpeg' class='img-responsive landing_pg_bg_img4'>\n\t\t<div class='overlay4'>\n\t\t\t<div class='col-md-10 col-md-offset-1 pad-zero'>\n\t\t\t\t<h1 id='motiv_qoute3'>Get More. Pay Less</h1>\n\t\t\t\t<h4 id='benefit_heading'> How you benefit from Autonic Solutions</h4>\n\t\t\t\t<div class='col-md-12 benefit_div'>\n\t\t\t\t\t<div class='col-md-3 benefit_icon_encompass'>\n\t\t\t\t\t\t<i class='fa fa-dollar lg_font_awesome_icon'></i>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class='col-md-9 benefit_texts'>\n\t\t\t\t\t\t<h2 class='benefit_reason_heading'>Cost Saving</h2>\n\t\t\t\t\t\t<h4 class='benefit_reason_explanation'>Cut Costs for infrastructure by letting Autonic handle all your time-consuming tasks, while ensuring your customers get the care they deserve. </h4>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class='col-md-12 benefit_div'>\n\t\t\t\t\t<div class='col-md-3 benefit_icon_encompass'>\n\t\t\t\t\t\t<i class='fa fa-gift lg_font_awesome_icon'></i>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class='col-md-9 benefit_texts'>\n\t\t\t\t\t\t<h2 class='benefit_reason_heading'>Flexible Pricing Models</h2>\n\t\t\t\t\t\t<h4 class='benefit_reason_explanation'>From Booming Start-Ups to Industrial Enterprises, there's a unique and reasonable solution tailored for everyone based on the business-need.\n\t\t\t\t\t\t</h4>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class='col-md-12 benefit_div'>\n\t\t\t\t\t<div class='col-md-3 benefit_icon_encompass'>\n\t\t\t\t\t\t<i class='fa fa-gear lg_font_awesome_icon'></i>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class='col-md-9 benefit_texts'>\n\t\t\t\t\t\t<h2 class='benefit_reason_heading'>Resource Utilization</h2>\n\t\t\t\t\t\t<h4 class='benefit_reason_explanation'>Forget about unwanted Paperwork, Utility Bills, Resource-Wastes.\n\t\t\t\t\t\t</h4>\n\t\t\t\t\t</div>\t\t\t\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n\n\n</body>\n\n\n<script type='text/javascript' src='assets/js/app.js'>\n</script>\n\n</html>",
+			"bpo_feat_text",
+			"<h4",
+			"</h3",
+			"<h3",
+			"font-so",
+			"font-",
+			"landing_img",
+			"landing_",
+			"show_flash_messages_signup_div",
+			"25%",
+			"80px",
+			"<i class='fa fa-pencil iconspace fa-2x'></i>",
+			"'></",
+			"publisher",
+			"col-md-4 gallery_item_div text-center",
+			"col-md-4 gallery_item_div",
+			"col-md-4",
+			"col-md-2",
+			"jquery-loading",
+			"loading",
+			"\n</",
+			"pricing-details",
+			"small",
+			"%;",
+			" ;",
+			"pricing",
+			"pric",
+			"table",
+			"class='img-responsive'"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<span>",
+			"cat",
+			"\"Mixed\"",
+			"Log",
+			"undefined",
+			"Tk 1000",
+			"Tk 750",
+			"window.setTimeout(function() {\n\t\t$(\"#flash_messages_div\").fadeTo(400, 0).slideUp(400, function(){\n\t\t\t$(this).remove(); \n\t\t});\n\t}, 1200);",
+			"</div>\n",
+			"<%= image_tag('button_icons/magnifying_glass_24.png') %>",
+			"</div>\n",
+			"<script type='text/javascript'>\n",
+			"</div>\n",
+			"col-md-11 col-lg-11 col-xs-11 col-sm-11",
+			"col-md-10 col-lg-10 col-xs-10 col-sm-10",
+			"col-md-8 col-lg-8 col-xs-8 col-sm-8",
+			"col-md-7 col-lg-7 col-xs-7 col-sm-7",
+			"col-md-6 col-lg-6 col-xs-6 col-sm-6",
+			"col-md-5 col-lg-5 col-xs-5 col-sm-5",
+			"col-md-offset-4 col-lg-offset-4 col-xs-offset-4 col-sm-offset-4",
+			"col-md-4 col-lg-4 col-xs-4 col-sm-4",
+			"col-md-offset-2 col-lg-offset-2 col-xs-offset-2 col-sm-offset-2",
+			"col-md-2 col-lg-2 col-xs-2 col-sm-2",
+			"col-md-1 col-lg-1 col-xs-1 col-sm-1",
+			"col-md-12 col-lg-12 col-xs-12 col-sm-12",
+			"col-md-offset-3 col-lg-offset-3 col-xs-offset-3 col-sm-offset-3",
+			"col-md-3 col-lg-3 col-xs-3 col-sm-3",
+			"col-md-9 col-lg-9 col-xs-9 col-sm-9",
+			"-5",
+			"-4",
+			"-2",
+			"-1",
+			"-3",
+			"-11",
+			"-10",
+			"-8",
+			"-7",
+			"<%= image_tag('button_icons/search_24.png') %>",
+			"$('html, body').animate({\n\t\t\tscrollTop: $('#motiv_quote5').offset().top}, 500);",
+			"$(\"#content_main_div\").fadeIn(500);",
+			"$('html, body').animate({\n\t\t\tscrollTop: $('#content_main_div').offset().top}, 500);",
+			"$(\"#active_solution_cat_heading\").html($(this).text());",
+			"title='Click to find out about",
+			"h4 class='solution_field btn btn-solution-type'",
+			"'rgb(0,1,25)'",
+			"<span id='span",
+			"span class='dark_nav_anchor_span'",
+			"dark_nav_anchor_li",
+			"</h6",
+			"<h6",
+			"$(\"#content_main_div\").hide();",
+			"$(\"#content_main_div\").fadeOut(300);",
+			"fadeOut(300);",
+			"fadeIn(300);",
+			"slideDown(300);",
+			".slideDown(900)",
+			".slideDown(600)",
+			"fadeIn(600)",
+			".fadeIn",
+			"</h5",
+			"<h5",
+			"payroll",
+			"class='solution_link'",
+			"<div class='container-fluid' id=",
+			"quote",
+			"100",
+			"<h4 class='solution_field'",
+			"<h4 class='class='solution_field'",
+			"</h4",
+			"<h4",
+			"15%",
+			"25%",
+			"Edit",
+			"topic",
+			"col-md-3 gallery_item_div text-center",
+			"col-md-4 gallery_item_div text-center",
+			"col-md-4 gallery_item_div",
+			"col-md-4",
+			"jquery_loading",
+			"span",
+			"class='img-responsive center_img'",
+			"</h4",
+			"<h4",
+			"text-mdsm",
+			"get_started_button",
+			"WorkSans",
+			"work-sans",
+			"topic_reply",
+			"topic",
+			"group",
+			"membership",
+			"group",
+			"@membership",
+			"review",
+			"col-md-12",
+			"placeholder: \"Type to search ...\"",
+			"<%= link_to '<i class= \"fa fa-chevron-left\"></i> Back'.html_safe,",
+			"publisher",
+			"genre",
+			"book",
+			"authorbook",
+			"author",
+			"user",
+			"author",
+			"genre",
+			"publisher",
+			"book",
+			"col-md-4 pad-zero ",
+			"col-md-3 pad-zero ",
+			"btn-warning",
+			"publisher",
+			"@publisher",
+			"publisher",
+			"author",
+			"@author",
+			"author",
+			"book_flash_messages",
+			"atauthor_form_errors",
+			"atbook_form_errors",
+			"atuser_form_errors",
+			"common_form_errors",
+			"<h6>",
+			"</h6>",
+			"<h6>",
+			"@book",
+			"",
+			"%> </",
+			"> <%= @book"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 286,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								247,
+								247
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										260,
+										268
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										239,
+										247
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 2,
+								"tabSize": 2
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 1.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/app/app.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 210,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 3,
+								"tabSize": 3
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/app/app.component.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 48,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								34,
+								34
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										36,
+										46
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										23,
+										33
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 2,
+								"tabSize": 2
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 26.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 188.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/NodeJs.sublime-build",
+	"project": "ng-srvup.sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sett",
+				"django_1.10_tutorial/books/books/settings.py"
+			],
+			[
+				"inde",
+				"ninja-directory/src/index.html"
+			],
+			[
+				"appcom",
+				"ninja-directory/src/app/app.component.html"
+			],
+			[
+				"appc",
+				"ninja-directory/src/app/app.component.ts"
+			],
+			[
+				"filest",
+				"thenetninjas_nodetutorial/filestream.js"
+			],
+			[
+				"a",
+				"thenetninjas_nodetutorial/app.js"
+			],
+			[
+				"home",
+				"traversymedia_meanauthapp/angular-src/src/app/components/home/home.component.html"
+			],
+			[
+				"navbar",
+				"traversymedia_meanauthapp/angular-src/src/app/components/navbar/navbar.component.html"
+			],
+			[
+				"profile",
+				"traversymedia_meanauthapp/angular-src/src/app/components/profile/profile.component.html"
+			],
+			[
+				"user.",
+				"traversymedia_meanauthapp/models/user.js"
+			],
+			[
+				"validatesert",
+				"traversymedia_meanauthapp/angular-src/src/app/services/validate.service.ts"
+			],
+			[
+				"login",
+				"traversymedia_meanauthapp/angular-src/src/app/components/login/login.component.ts"
+			],
+			[
+				"app",
+				"tmsite/scss/app.scss"
+			],
+			[
+				"gall",
+				"RBT/bookgosp/app/views/extrapages/gallery.html.erb"
+			],
+			[
+				"cale",
+				"RBT/bookgosp/app/views/extrapages/calendar.html.erb"
+			],
+			[
+				"extra",
+				"RBT/bookgosp/app/controllers/extrapages_controller.rb"
+			],
+			[
+				"head",
+				"RBT/bookgosp/app/views/layouts/_header.html.erb"
+			],
+			[
+				"autho",
+				"RBT/bookgosp/app/controllers/authors_controller.rb"
+			],
+			[
+				"sess",
+				"RBT/bookgosp/app/controllers/sessions_controller.rb"
+			],
+			[
+				"users",
+				"RBT/bookgosp/app/controllers/users_controller.rb"
+			],
+			[
+				"gem",
+				"RBT/bookgosp/Gemfile"
+			],
+			[
+				"ex",
+				"Rails/RBT/bookgosp/app/controllers/extrapages_controller.rb"
+			],
+			[
+				"pub",
+				"Rails/RBT/bookgosp/app/controllers/publishers_controller.rb"
+			],
+			[
+				"books",
+				"Rails/RBT/bookgosp/app/controllers/books_controller.rb"
+			],
+			[
+				"publi",
+				"Rails/RBT/bookgosp/app/models/publisher.rb"
+			],
+			[
+				"book",
+				"Rails/RBT/bookgosp/app/models/book.rb"
+			],
+			[
+				"root",
+				"Rails/RBT/bookgosp/app/views/extrapages/root_home_page.html.erb"
+			],
+			[
+				"author",
+				"Rails/RBT/bookgosp/app/models/author.rb"
+			],
+			[
+				"mem",
+				"Rails/RBT/bookgosp/app/controllers/memberships_controller.rb"
+			],
+			[
+				"group",
+				"Rails/RBT/bookgosp/app/models/group.rb"
+			],
+			[
+				"publisherse",
+				"Rails/RBT/bookgosp/app/views/publishers/_publisher_search.html.erb"
+			],
+			[
+				"routes",
+				"Rails/RBT/bookgosp/config/routes.rb"
+			],
+			[
+				"user",
+				"Rails/RBT/bookgosp/app/models/user.rb"
+			],
+			[
+				"genre",
+				"Rails/RBT/bookgosp/app/controllers/genres_controller.rb"
+			],
+			[
+				"re",
+				"Rails/RBT/bookgosp/app/controllers/reviews_controller.rb"
+			],
+			[
+				"rev",
+				"Rails/RBT/bookgosp/app/controllers/reviews_controller.rb"
+			],
+			[
+				"topicc",
+				"Rails/RBT/bookgosp/app/controllers/topics_controller.rb"
+			],
+			[
+				"rou",
+				"Rails/RBT/bookgosp/config/routes.rb"
+			],
+			[
+				"uesrs",
+				"Rails/RBT/bookgosp/app/assets/stylesheets/users.scss"
+			],
+			[
+				"topics",
+				"RBT/bookgosp/app/controllers/topics_controller.rb"
+			],
+			[
+				"revie",
+				"RBT/bookgosp/app/controllers/reviews_controller.rb"
+			],
+			[
+				"route",
+				"RBT/bookgosp/config/routes.rb"
+			],
+			[
+				"pass",
+				"RBT/bookgosp/app/controllers/password_resets_controller.rb"
+			],
+			[
+				"pas",
+				"RBT/bookgosp/app/controllers/password_resets_controller.rb"
+			],
+			[
+				"groups",
+				"RBT/bookgosp/app/controllers/groups_controller.rb"
+			],
+			[
+				"auth",
+				"RBT/bookgosp/app/controllers/authors_controller.rb"
+			],
+			[
+				"",
+				"RBT/bookgosp/app/views/layouts/application.html.erb"
+			],
+			[
+				"topic",
+				"Rails/RBT/bookgosp/app/models/topic.rb"
+			],
+			[
+				"review",
+				"Rails/RBT/bookgosp/app/controllers/reviews_controller.rb"
+			],
+			[
+				"topi",
+				"Rails/RBT/bookgosp/app/controllers/topics_controller.rb"
+			],
+			[
+				"to",
+				"Rails/RBT/bookgosp/app/controllers/topics_controller.rb"
+			],
+			[
+				"grou",
+				"Rails/RBT/bookgosp/app/controllers/groups_controller.rb"
+			],
+			[
+				"member",
+				"Rails/RBT/bookgosp/app/controllers/memberships_controller.rb"
+			],
+			[
+				"topic_repl",
+				"Rails/RBT/bookgosp/app/models/topic_reply.rb"
+			],
+			[
+				"user.rb",
+				"Rails/RBT/bookgosp/app/models/user.rb"
+			],
+			[
+				"revi",
+				"Rails/RBT/bookgosp/app/controllers/reviews_controller.rb"
+			],
+			[
+				"header",
+				"Rails/RailsTutorial/sample_app/app/views/layouts/_header.html.erb"
+			],
+			[
+				"layout",
+				"Rails/blog/app/views/layouts/application.html.erb"
+			],
+			[
+				"index",
+				"Rails/RBT/bookgosp/app/views/books/index.html.erb"
+			],
+			[
+				"publisher",
+				"Rails/RBT/bookgosp/app/controllers/publishers_controller.rb"
+			],
+			[
+				"boo",
+				"Rails/RBT/bookgosp/app/controllers/books_controller.rb"
+			],
+			[
+				"show",
+				"blog/app/views/articles/show.html.erb"
+			],
+			[
+				"sho",
+				"blog/app/views/articles/show.html.erb"
+			],
+			[
+				"commen",
+				"blog/app/controllers/comments_controller.rb"
+			],
+			[
+				"publish",
+				"mysite/templates/publisher_profile.html"
+			],
+			[
+				"list",
+				"mysite/templates/list_recent_objects.html"
+			],
+			[
+				"au",
+				"mysite/templates/author_profile.html"
+			],
+			[
+				"pu",
+				"mysite/templates/publisher_profile.html"
+			],
+			[
+				"bool",
+				"mysite/templates/book_profile.html"
+			],
+			[
+				"admin",
+				"mysite/readbooks/admin.py"
+			],
+			[
+				"urls",
+				"mysite/mysite/urls.py"
+			],
+			[
+				"search",
+				"mysite/templates/search.html"
+			],
+			[
+				"add",
+				"mysite/templates/add.html"
+			],
+			[
+				"models",
+				"mysite/readbooks/models.py"
+			],
+			[
+				"base",
+				"mysite/templates/base.html"
+			],
+			[
+				"criti",
+				"mysite/templates/critic_profile.html"
+			],
+			[
+				"forms",
+				"mysite/readbooks/forms.py"
+			],
+			[
+				"ad",
+				"mysite/templates/add.html"
+			],
+			[
+				"url",
+				"mysite/mysite/urls.py"
+			],
+			[
+				"views",
+				"mysite/readbooks/views.py"
+			],
+			[
+				"genr",
+				"mysite/templates/genre_page.html"
+			],
+			[
+				"v",
+				"mysite/readbooks/views.py"
+			],
+			[
+				"ge",
+				"mysite/templates/genre_page.html"
+			],
+			[
+				"reader",
+				"mysite/templates/reader_profile.html"
+			],
+			[
+				"critic",
+				"mysite/templates/critic_profile.html"
+			],
+			[
+				"model",
+				"mysite/readbooks/models.py"
+			],
+			[
+				"sear",
+				"mysite/templates/search.html"
+			],
+			[
+				"vie",
+				"mysite/readbooks/views.py"
+			],
+			[
+				"view",
+				"mysite/mysite/views.py"
+			],
+			[
+				"read",
+				"mysite/templates/reader_profile.html"
+			],
+			[
+				"mo",
+				"mysite/readbooks/models.py"
+			],
+			[
+				"cri",
+				"mysite/templates/critic_profile.html"
+			],
+			[
+				"crit",
+				"mysite/templates/critic_profile.html"
+			],
+			[
+				"in",
+				"mysite/templates/index.html"
+			],
+			[
+				"ba",
+				"mysite/templates/base.html"
+			],
+			[
+				"ur",
+				"mysite/readbooks/urls.py"
+			],
+			[
+				"for",
+				"mysite/readbooks/forms.py"
+			],
+			[
+				"mode",
+				"mysite/readbooks/models.py"
+			],
+			[
+				"form",
+				"mysite/mysite/forms.py"
+			],
+			[
+				"inva",
+				"mysite/templates/invalid_login.html"
+			],
+			[
+				"rea",
+				"mysite/templates/reader_profile.html"
+			],
+			[
+				"se",
+				"mysite/templates/search.html"
+			],
+			[
+				"enre",
+				"mysite/templates/genre_page.html"
+			],
+			[
+				"cat",
+				"templates/rango/category.html"
+			],
+			[
+				"cate",
+				"templates/rango/category.html"
+			],
+			[
+				"ca",
+				"templates/rango/add_category.html"
+			],
+			[
+				"bing",
+				"rango/bing_search.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 485.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 210.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
