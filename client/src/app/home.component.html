@@ -5,8 +5,8 @@
 				<img class='img-responsive' [src]="image.imageSrc" (click)='preventNormal($event, image)'>
 			</a>
 			<div class='carousel-caption'>
-				<h3> {{ image.title}}</h3>
-				<p> <a href='{{image.link}}' class='btn btn-default'> Watch </a> </p>
+				<h3> {{ image.name}}</h3>
+				<p> <a href='/videos/{{image.slug}}' class='btn btn-default'> Watch </a> </p>
 			</div>
 		</slide>
 		<!-- <img class='img-responsive' src="assets/images/4.jpg" alt="First slide"> -->

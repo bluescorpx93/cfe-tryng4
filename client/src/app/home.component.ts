@@ -1,28 +1,29 @@
-import { Component } from '@angular/core';
+import { Component, OnInit, OnDestroy } from '@angular/core';
 import { Router} from '@angular/router';
+import { Http } from '@angular/http';
 
 @Component({
 	selector: 'home',
 	templateUrl: './home.component.html',
 	styleUrls: ['./home.component.css']
 })
-export class HomeComponent{
-	constructor(private router: Router){}
+export class HomeComponent implements OnInit{
+	constructor(private router: Router, private http: Http){}
 
+	private req: any;
 	// first put event: any, and based on the console.log find which event it is.
 	// image.attr doesn't work
 
 	homeImageList = [
-		{
-			imageSrc:"assets/images/4.jpg", title: "The 5 ways to type faster", link: "/videos/video-1"
-		},
-		{
-			imageSrc:"assets/images/5.jpg", title: "Famous Volcanoes", link: "/videos/video-2"
-		},
-		{
-			imageSrc:"assets/images/6.jpg", title: "Bikes under $1000", link: "/videos/video-3"
-		}
-		
+		// {
+		// 	imageSrc:"assets/images/4.jpg", title: "The 5 ways to type faster", link: "/videos/video-1"
+		// },
+		// {
+		// 	imageSrc:"assets/images/5.jpg", title: "Famous Volcanoes", link: "/videos/video-2"
+		// },
+		// {
+		// 	imageSrc:"assets/images/6.jpg", title: "Bikes under $1000", link: "/videos/video-3"
+		// }
 	]
 
 	preventNormal(event: MouseEvent, image: any){
@@ -32,8 +33,18 @@ export class HomeComponent{
 			// image.setAttribute("href","/videos");
 			// image.link
 			//image.prevented = true;
-			//this.router.navigate('/videos');
+			this.router.navigate(['/videos']);
 
 		}
+	}
+
+	ngOnInit(){
+		this.req = this.http.get('assets/json/videos.json').subscribe(data => {
+			this.homeImageList = data.json() as [any];
+		})
+	}
+
+	ngOnDestroy(){
+		this.req.unsubscribe();
 	}
 }

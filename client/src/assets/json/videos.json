@@ -2,21 +2,25 @@
 	{
 		"name": "Video1",
 		"slug": "video-1",
-		"embed": "6wD4V0rvlDI"
+		"embed": "6wD4V0rvlDI",
+		"imageSrc":"assets/images/4.jpg"
 	},
 	{
 		"name": "Video2",
 		"slug": "video-2",
-		"embed": "6wD4V0rvlDI"
+		"embed": "6wD4V0rvlDI",
+		"imageSrc":"assets/images/5.jpg"
 	},
 	{
 		"name": "Video3",
 		"slug": "video-3",
-		"embed": "6wD4V0rvlDI"
+		"embed": "6wD4V0rvlDI",
+		"imageSrc":"assets/images/6.jpg"
 	},
 	{
 		"name": "Video4",
 		"slug": "video-4",
-		"embed": "6wD4V0rvlDI"
+		"embed": "6wD4V0rvlDI",
+		"imageSrc":"assets/images/7.jpg"
 	}
 ]
