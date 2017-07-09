@@ -1,0 +1,17 @@
+[
+	{
+		"name": "Video1",
+		"slug": "video-1",
+		"embed": "6wD4V0rvlDI"
+	},
+	{
+		"name": "Video2",
+		"slug": "video-2",
+		"embed": "6wD4V0rvlDI"
+	},
+	{
+		"name": "Video3",
+		"slug": "video-3",
+		"embed": null
+	}
+]

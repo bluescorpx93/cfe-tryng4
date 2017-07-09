@@ -1,0 +1,24 @@
+<div class='col-sm-8 col-sm-offset-2'>
+	<carousel class='text-center'>
+		<slide *ngFor="let image of homeImageList">
+			<a class="" href='{{image.link}}'>
+				<img class='img-responsive' [src]="image.imageSrc" (click)='preventNormal($event, image)'>
+			</a>
+			<div class='carousel-caption'>
+				<h3> {{ image.title}}</h3>
+				<p> <a href='{{image.link}}' class='btn btn-default'> Watch </a> </p>
+			</div>
+		</slide>
+		<!-- <img class='img-responsive' src="assets/images/4.jpg" alt="First slide"> -->
+
+<!-- 	<slide>
+			<img class='img-responsive' src="assets/images/5.jpg" alt="Second slide">
+			<p> <a #imageTwo href='/videos/video-1' class='btn btn-default' (click)='preventNormal($event, imageTwo)'> Video 1 </a> </p>
+		</slide>
+		<slide>
+			<img class='img-responsive' src="assets/images/6.jpg" alt="Third slide">
+			<p> <a #imageThree href='/videos/video-1' class='btn btn-default' (click)='preventNormal($event, imageThree)'> Video 1 </a> </p>
+		</slide> -->
+
+	</carousel>
+</div>
