@@ -1,2 +1,2 @@
-<h1> {{slug}}</h1>
-{{video.name }} {{video.slug}} {{video.embed}}
+<h1> {{video.name}}</h1>
+<iframe class='col-md-12 ' height='500px' *ngIf='video.embed' [src]="getEmbedURL(video.embed) | safe" frameborder="0" allowfullscreen style='padding-left: 0'></iframe>
