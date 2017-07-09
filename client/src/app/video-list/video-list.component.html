@@ -1,4 +1,4 @@
-<h1> {{ title }} - {{todayDate | date: "MM/dd/yy"}}</h1>
+<h1> {{ title }} - {{todayDate | date: "dd/MM/yy"}}</h1>
 <!-- <p *ngFor = "let item of videoList">
 	<a href='videos/{{ item.slug }} ' *ngIf= ' item.slug == "item-1" '> {{ item.name }} </a>
 	<a href='videos/{{ item.slug }} ' *ngIf= ' item.slug != "item-1" ' style='color:green;'> {{item.name}}</a>
@@ -6,9 +6,9 @@
 -->
 
 <div *ngFor = 'let item of videoList'>
-	<div class='col-md-6 '>
+	<div class='col-md-6 ' style='padding-left: 0'>
 		<h3> 	 	<a href='videos/{{item.slug}}'> {{ item.name }}</a> </h3> 
-		<iframe class='col-md-12 ' height='300px' *ngIf='item.embed' [src]="getEmbedURL(item.embed) | safe" frameborder="0" allowfullscreen></iframe>
+		<iframe class='col-md-12 ' height='300px' *ngIf='item.embed' [src]="getEmbedURL(item.embed) | safe" frameborder="0" allowfullscreen style='padding-left: 0'></iframe>
  		<!-- The embed URL gets created from the function which returns a string
  		the SAFE pipe makes it Sanitized -->
  	</div>
