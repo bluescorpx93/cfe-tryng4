@@ -1,3 +1,7 @@
-<div *ngIf='query'>
+<div *ngIf='query.length>1'>
 	<h3> Searched <b> {{ query}}</b> </h3>
+	<ul >
+	<li *ngFor = "let item of searchResults | SearchNamePipe:query"> <a href='/videos/{{item.slug}}'> {{item.name}}</a></li>
+	</ul>
 </div>
+

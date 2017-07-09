@@ -11,6 +11,7 @@ import { VideoListComponent } from './video-list/video-list.component';
 import { VideoDetailComponent } from './video-detail/video-detail.component';
 import { NavComponent } from './nav.component';
 import { SafePipe } from './safe.pipe';
+import { SearchNamePipe} from './search.pipe';
 import { HomeComponent } from './home.component';
 import { SearchComponent } from './search.component';
 import { SearchDetailComponent } from './search-detail.component';
@@ -22,6 +23,7 @@ import { SearchDetailComponent } from './search-detail.component';
     VideoDetailComponent,
     NavComponent,
     SafePipe,
+    SearchNamePipe,
     HomeComponent,
     SearchComponent,
     SearchDetailComponent
