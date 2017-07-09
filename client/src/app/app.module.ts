@@ -12,6 +12,8 @@ import { VideoDetailComponent } from './video-detail/video-detail.component';
 import { NavComponent } from './nav.component';
 import { SafePipe } from './safe.pipe';
 import { HomeComponent } from './home.component';
+import { SearchComponent } from './search.component';
+import { SearchDetailComponent } from './search-detail.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +22,9 @@ import { HomeComponent } from './home.component';
     VideoDetailComponent,
     NavComponent,
     SafePipe,
-    HomeComponent
+    HomeComponent,
+    SearchComponent,
+    SearchDetailComponent
   ],
   imports: [
     BrowserModule,

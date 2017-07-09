@@ -1,0 +1,10 @@
+<div class='col-sm-4'>
+	<form #searchForm='ngForm' class='navbar-form' (ngSubmit)="submitSearch($event, searchForm)">
+		<input type='text' class='form-control' placeholder='Search Videos' [(ngModel)]='searchQuery' name='searchQuery' (change)='searchQueryChange()'>
+		<button type='submit' class='btn btn-primary'> 
+			<!-- <span *ngIf='!searchQuery'> Find</span>
+			<span *ngIf='searchQuery'> Get {{ searchQuery }}</span> -->
+			Find
+		</button>
+	</form>
+</div>
