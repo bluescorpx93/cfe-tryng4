@@ -1,7 +1,7 @@
 import { VideoService} from '../video.service';
 import { Component, OnInit, OnDestroy } from '@angular/core';
 import { ActivatedRoute} from '@angular/router';
-// import { Http } from '@angular/http';
+import { Http } from '@angular/http';
 
 @Component({
 	selector: 'video-detail',

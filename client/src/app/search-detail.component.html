@@ -1,7 +1,20 @@
-<div *ngIf='query.length>1'>
-	<h3> Searched <b> {{ query}}</b> </h3>
-	<ul >
-	<li *ngFor = "let item of searchResults | SearchNamePipe:query"> <a routerLink='/videos/{{item.slug}}'> {{item.name}}</a></li>
-	</ul>
+<div class='row'>
+	<div class='col-sm-6'>
+		Method1
+		<div *ngIf='query.length>1'>
+			<h3> Searched <b> {{ query}}</b> </h3>
+			<ul >
+				<li *ngFor = "let item of searchResults | SearchNamePipe:query"> <a routerLink='/videos/{{item.slug}}'> {{item.name}}</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class='col-sm-6'>
+		Method 2
+		<div *ngIf='searchResultsv2'>
+			<h3> Searched <b> {{ query}}</b> </h3>
+			<ul >
+				<li *ngFor = "let item of searchResultsv2"> <a routerLink='/videos/{{item.slug}}'> {{item.name}}</a></li>
+			</ul>
+		</div>
+	</div>
 </div>
-

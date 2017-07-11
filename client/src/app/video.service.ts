@@ -28,6 +28,18 @@ export class VideoService{
 		}).catch(this.handleError)
 	}
 
+	searchVideoByName(name){
+		return this.http.get(endpoint).map(response => {
+			let data = []
+			let req= response.json().filter(item => {
+				if (item.name.indexOf(name) >=0){
+					data.push(item);
+				}
+			})
+			return data
+		}).catch(this.handleError)
+	}
+
 	private handleError(error:any, caught:any): any{
 		console.log("Error\n"+ error, "Caught\n"+caught);
 	}
