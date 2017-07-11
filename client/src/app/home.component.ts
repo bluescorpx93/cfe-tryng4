@@ -1,6 +1,8 @@
 import { Component, OnInit, OnDestroy } from '@angular/core';
 import { Router} from '@angular/router';
 import { Http } from '@angular/http';
+import { VideoItem } from './video';
+import { VideoService } from './video.service';
 
 @Component({
 	selector: 'home',
@@ -8,7 +10,7 @@ import { Http } from '@angular/http';
 	styleUrls: ['./home.component.css']
 })
 export class HomeComponent implements OnInit{
-	constructor(private router: Router, private http: Http){}
+	constructor(private router: Router, private http: Http, private videoService: VideoService){}
 
 	private req: any;
 	// first put event: any, and based on the console.log find which event it is.
@@ -39,8 +41,11 @@ export class HomeComponent implements OnInit{
 	}
 
 	ngOnInit(){
-		this.req = this.http.get('assets/json/videos.json').subscribe(data => {
-			this.homeImageList = data.json() as [any];
+		// this.req = this.http.get('assets/json/videos.json').subscribe(data => {
+		// 	this.homeImageList = data.json() as [any];
+		// })
+		this.req = this.videoService.getAllVideos().subscribe(data => {
+			this.homeImageList = data as [VideoItem];
 		})
 	}
 

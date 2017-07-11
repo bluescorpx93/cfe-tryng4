@@ -1,6 +1,7 @@
 import { Component, OnInit, OnDestroy } from '@angular/core';
 import { Http } from '@angular/http';
 import { VideoService} from '../video.service';
+import { VideoItem } from '../video';
 
 @Component({
 	selector: 'video-list',
@@ -11,7 +12,7 @@ export class VideoListComponent implements OnInit, OnDestroy {
 	private req:any
 	title = "Video List"
 	todayDate;
-	videoList: [any];
+	videoList: [VideoItem];
 
 	// videoList = [
 	// 	{
@@ -36,7 +37,7 @@ export class VideoListComponent implements OnInit, OnDestroy {
 	ngOnInit() {
 		this.todayDate = new Date()
 		this.req = this.videoService.getAllVideos().subscribe(data=> {
-			this.videoList = data as any;
+			this.videoList = data as [VideoItem];
 		})
 		// this.req = this.http.get('assets/json/videos.json').subscribe(data => { console.log(data.json());
 		// 	this.videoList = data.json() as any;

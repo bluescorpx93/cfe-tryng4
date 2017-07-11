@@ -2,6 +2,7 @@ import { VideoService} from '../video.service';
 import { Component, OnInit, OnDestroy } from '@angular/core';
 import { ActivatedRoute} from '@angular/router';
 import { Http } from '@angular/http';
+import { VideoItem } from '../video';
 
 @Component({
 	selector: 'video-detail',
@@ -12,7 +13,7 @@ export class VideoDetailComponent implements OnInit {
 	private routeSub: any;
 	private req: any;
 	slug: string;
-	video: any;
+	video: VideoItem;
 
 	constructor(private route: ActivatedRoute, private http: Http, private videoService: VideoService) { }
 
