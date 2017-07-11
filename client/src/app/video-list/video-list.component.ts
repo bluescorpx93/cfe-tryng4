@@ -1,5 +1,6 @@
 import { Component, OnInit, OnDestroy } from '@angular/core';
-import { Http } from '@angular/http';
+// import { Http } from '@angular/http';
+import { VideoService} from '../video.service';
 
 @Component({
 	selector: 'video-list',
@@ -30,14 +31,16 @@ export class VideoListComponent implements OnInit, OnDestroy {
 	// 	}
 	// ]
 
-	constructor(private http: Http) { }
+	constructor(private http: Http, private videoService: VideoService) { }
 
 	ngOnInit() {
 		this.todayDate = new Date()
-		this.req = this.http.get('assets/json/videos.json').subscribe(data => {
-			console.log(data.json());
-			this.videoList = data.json() as any;
+		this.req = this.videoService.getAllVideos().subscribe(data=> {
+			this.videoList = data as any;
 		})
+		// this.req = this.http.get('assets/json/videos.json').subscribe(data => { console.log(data.json());
+		// 	this.videoList = data.json() as any;
+		// })
 	}
 
 	getEmbedURL(embed){

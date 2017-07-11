@@ -15,6 +15,7 @@ import { SearchNamePipe} from './search.pipe';
 import { HomeComponent } from './home.component';
 import { SearchComponent } from './search.component';
 import { SearchDetailComponent } from './search-detail.component';
+import {VideoService} from './video.service';
 
 @NgModule({
   declarations: [
@@ -34,9 +35,10 @@ import { SearchDetailComponent } from './search-detail.component';
     HttpModule,
     AppRoutingModule,
     BsDropdownModule.forRoot(),
-    CarouselModule.forRoot()
+    CarouselModule.forRoot(),
+    
   ],
-  providers: [],
+  providers: [VideoService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
